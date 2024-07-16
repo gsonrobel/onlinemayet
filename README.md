@@ -1,3 +1,6 @@
+
+![image](https://github.com/user-attachments/assets/53837201-70e5-4153-8793-b8292f4d331a)
+
 # ProShop eCommerce Platform
 
 > eCommerce platform built with the MERN stack & Redux.
