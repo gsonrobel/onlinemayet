@@ -1,8 +1,6 @@
+# Online Mayet e-commerce Platform
 
 ![image](https://github.com/user-attachments/assets/585985fd-ba9d-4c73-9d1f-c1dbe6581726)
-
-
-# ProShop eCommerce Platform
 
 > eCommerce platform built with the MERN stack & Redux.
 
